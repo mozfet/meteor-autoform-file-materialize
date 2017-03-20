@@ -15,7 +15,7 @@ Package.onUse(function(api) {
     'reactive-var',
     'underscore',
     'templating',
-    'less',
+    'less@2.7.9',
     'aldeed:autoform@5.1.1',
     'cfs:dropped-event@0.0.10'
     ],
